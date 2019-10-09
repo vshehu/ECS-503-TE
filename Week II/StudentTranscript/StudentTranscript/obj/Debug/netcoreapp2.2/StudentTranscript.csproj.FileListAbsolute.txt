@@ -1,0 +1,11 @@
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.deps.json
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.runtimeconfig.json
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.runtimeconfig.dev.json
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.dll
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.pdb
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.csprojAssemblyReference.cache
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.csproj.CoreCompileInputs.cache
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.AssemblyInfoInputs.cache
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.AssemblyInfo.cs
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.dll
+C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.pdb
