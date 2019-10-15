@@ -1,0 +1,11 @@
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.exe
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.deps.json
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.runtimeconfig.json
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.runtimeconfig.dev.json
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.dll
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp3.0\StudentTranscript.pdb
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.csprojAssemblyReference.cache
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.AssemblyInfoInputs.cache
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.AssemblyInfo.cs
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.dll
+C:\Users\Stefan\Google Drive (sk28148@seeu.edu.mk)\3. SEMESTER 3\C# Programming\Assignments\Assignment 1\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp3.0\StudentTranscript.pdb
