@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Week II",
-    "\\Week II\\StudentTranscript"
+    "\\Week II\\StudentTranscript",
+    "\\Week II\\StudentTranscript\\StudentTranscript"
   ],
-  "SelectedNode": "\\Week II\\StudentTranscript\\StudentTranscript.sln",
+  "SelectedNode": "\\Week II\\StudentTranscript\\StudentTranscript\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
