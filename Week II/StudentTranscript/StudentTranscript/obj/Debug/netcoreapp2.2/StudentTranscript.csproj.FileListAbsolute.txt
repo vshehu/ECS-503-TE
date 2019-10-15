@@ -9,3 +9,13 @@ C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcor
 C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.AssemblyInfo.cs
 C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.dll
 C:\Users\Visar\source\repos\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.pdb
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.deps.json
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.runtimeconfig.json
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.runtimeconfig.dev.json
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.dll
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\bin\Debug\netcoreapp2.2\StudentTranscript.pdb
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.AssemblyInfo.cs
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.dll
+C:\Users\user\Desktop\ECS-503-TE\Week II\StudentTranscript\StudentTranscript\obj\Debug\netcoreapp2.2\StudentTranscript.pdb
