@@ -6,6 +6,7 @@ namespace StudentTranscript
     {
         static void Main(string[] args)
         {
+            //this is  a change I made
             string[] courses = new string[10];
             int[] credits = new int[10];
             int[] grades = new int[10];

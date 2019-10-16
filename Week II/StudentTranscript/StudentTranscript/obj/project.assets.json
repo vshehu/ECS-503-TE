@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Visar\\source\\repos\\StudentTranscript\\StudentTranscript\\StudentTranscript.csproj",
+      "projectUniqueName": "C:\\Users\\Visar\\Source\\Repos\\ECSdsa-503-TE\\Week II\\StudentTranscript\\StudentTranscript\\StudentTranscript.csproj",
       "projectName": "StudentTranscript",
-      "projectPath": "C:\\Users\\Visar\\source\\repos\\StudentTranscript\\StudentTranscript\\StudentTranscript.csproj",
+      "projectPath": "C:\\Users\\Visar\\Source\\Repos\\ECSdsa-503-TE\\Week II\\StudentTranscript\\StudentTranscript\\StudentTranscript.csproj",
       "packagesPath": "C:\\Users\\Visar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Visar\\source\\repos\\StudentTranscript\\StudentTranscript\\obj\\",
+      "outputPath": "C:\\Users\\Visar\\Source\\Repos\\ECSdsa-503-TE\\Week II\\StudentTranscript\\StudentTranscript\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
