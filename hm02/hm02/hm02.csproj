@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20191111214935_implement social-network.cs" />
+    <Compile Remove="Migrations\20191111214935_implement social-network.Designer.cs" />
+    <Compile Remove="Migrations\20191111215537_implement hm02.cs" />
+    <Compile Remove="Migrations\20191111215537_implement hm02.Designer.cs" />
+    <Compile Remove="Migrations\20191112220426_implement chat.v4.cs" />
+    <Compile Remove="Migrations\20191112220426_implement chat.v4.Designer.cs" />
+    <Compile Remove="Migrations\20191112221320_implement chat.v4.cs" />
+    <Compile Remove="Migrations\20191112221320_implement chat.v4.Designer.cs" />
+    <Compile Remove="Migrations\20191112221450_implement chat.v4.cs" />
+    <Compile Remove="Migrations\20191112221450_implement chat.v4.Designer.cs" />
+    <Compile Remove="Migrations\20191112221659_implement chat.v4.cs" />
+    <Compile Remove="Migrations\20191112221659_implement chat.v4.Designer.cs" />
+    <Compile Remove="Migrations\20191112224342_Final.v3.cs" />
+    <Compile Remove="Migrations\20191112224342_Final.v3.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.0.1" />
+  </ItemGroup>
+
+</Project>
