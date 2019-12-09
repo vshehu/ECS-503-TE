@@ -12,6 +12,23 @@ namespace ProjectManagement.Controllers
     {
         public IActionResult Index()
         {
+            DatabaseContext context = new DatabaseContext();
+
+            var students = from s in context.Students
+                           where s.LastName == "Doe"
+                           select new
+                           {
+                               FirstName = s.FirstName,
+                               LastName = s.LastName,
+                               Birthdate = s.Birthdate
+                           };
+            foreach (var s in students)
+            {
+                Console.WriteLine("Firstname: " + s.FirstName);
+                Console.WriteLine("Lastname: " + s.LastName);
+                Console.WriteLine("Birthdate: " + s.Birthdate);
+            }
+
             return View();
         }
 

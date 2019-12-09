@@ -17,6 +17,7 @@ namespace ProjectManagement.Models
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options.UseSqlServer("Server=DESKTOP-56N3OSK;Database=ProjectManagement;Trusted_Connection=True;");
+               
         }
     }
 }

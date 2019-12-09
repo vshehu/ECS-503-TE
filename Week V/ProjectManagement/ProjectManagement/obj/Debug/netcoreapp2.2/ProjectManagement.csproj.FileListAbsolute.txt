@@ -58,3 +58,9 @@ G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\Projec
 G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\ProjectManagement.dll
 G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\ProjectManagement.pdb
 G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\ProjectManagement.csproj.CopyComplete
+G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+G:\My Drive\C# Programming (2019 - 2020)\Repo\TE\Week V\ProjectManagement\ProjectManagement\obj\Debug\netcoreapp2.2\Razor\Views\Test\Index.g.cshtml.cs
