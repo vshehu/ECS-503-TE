@@ -4,16 +4,46 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using SEEU_Shop__SK_.Data;
 using SEEU_Shop__SK_.Models;
+using SEEU_Shop__SK_.ViewModels;
 
 namespace SEEU_Shop__SK_.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly ApplicationDbContext _context;
+
+        public HomeController(ApplicationDbContext context)
         {
-            return View();
+            _context = context;
         }
+        //public IActionResult Index()
+        //{
+        //    IndexViewModel model = new IndexViewModel();
+        //    model.Categories = _context.Categories.ToList();
+        //    model.Products = _context.Products.ToList();
+
+        //    return View(model);
+        //}
+
+        public IActionResult Index(int? id)
+        {
+            IndexViewModel model = new IndexViewModel();
+            model.Categories = _context.Categories.ToList();
+            if (id == null)
+            {
+                model.Products = _context.Products.ToList();
+
+            }
+            else
+            { 
+                model.Products = _context.Products.Where(x => x.Category.Id == id).ToList();
+            }
+            return View(model);
+        }
+
+
 
         public IActionResult Privacy()
         {

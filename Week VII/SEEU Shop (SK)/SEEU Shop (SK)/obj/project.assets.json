@@ -13010,11 +13010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Visar\\source\\repos\\SEEU Shop (SK)\\SEEU Shop (SK)\\SEEU Shop (SK).csproj",
+      "projectUniqueName": "G:\\My Drive\\C# Programming (2019 - 2020)\\Repo\\TE\\Week VII\\SEEU Shop (SK)\\SEEU Shop (SK)\\SEEU Shop (SK).csproj",
       "projectName": "SEEU Shop (SK)",
-      "projectPath": "C:\\Users\\Visar\\source\\repos\\SEEU Shop (SK)\\SEEU Shop (SK)\\SEEU Shop (SK).csproj",
+      "projectPath": "G:\\My Drive\\C# Programming (2019 - 2020)\\Repo\\TE\\Week VII\\SEEU Shop (SK)\\SEEU Shop (SK)\\SEEU Shop (SK).csproj",
       "packagesPath": "C:\\Users\\Visar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Visar\\source\\repos\\SEEU Shop (SK)\\SEEU Shop (SK)\\obj\\",
+      "outputPath": "G:\\My Drive\\C# Programming (2019 - 2020)\\Repo\\TE\\Week VII\\SEEU Shop (SK)\\SEEU Shop (SK)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

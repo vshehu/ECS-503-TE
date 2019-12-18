@@ -1,8 +1,33 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model SEEU_Shop__SK_.ViewModels.IndexViewModel
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="row">
+        <div class="col-2">
+            @foreach (var c in Model.Categories)
+            {
+            <a href="/Home/Index/@c.Id">
+                @c.Name <br />
+            </a>
+            }
+
+        </div>
+        <div class="col-10">
+            
+            @foreach (var p in Model.Products)
+            {
+            <div class="row">
+                <div class="col-md-3">
+                    @p.Name
+                </div>
+                <div class="col-md-5">
+                    @p.Description
+                </div>
+                <div class="col-md-1">
+                    @p.Price
+                </div>
+                
+            </div>
+            }
+        </div>
+    </div>
 </div>

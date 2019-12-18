@@ -1,0 +1,31 @@
+﻿@model SEEUShop.ViewModels.IndexViewModel
+
+<div class=row>
+    <div class=col-md-12></div>
+</div>
+<div class=row>
+    <div class=col-md-3>
+        <ul>
+            <li>
+                <a href="/Home/Index"> Show all</a>
+            </li>
+            @foreach (var c in Model.Categories)
+            {
+                <li>
+                    <a href="/Home/Index/@c.Id"> @c.Name</a>
+                </li>
+            }
+        </ul>
+    </div>
+    <div class=col-md-9>
+        <ul>
+            @foreach (var p in Model.Products)
+            {
+                <li>
+                    @p.Name
+                </li>
+            }
+        </ul>
+
+    </div>
+</div>
